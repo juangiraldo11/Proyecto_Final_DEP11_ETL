@@ -1,0 +1,9 @@
+
+cloud_storage:
+  credentials: "/user/app/dep11-proyecto-final-pyhton-5c5b86f3e8ff.json"
+  
+mysql:
+  host: ""
+  user: "root"
+  pass: "root"
+  port: "3310"
